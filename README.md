@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Biglical
+- 👀 I’m interested in all things science
+- 🌱 I’m currently learning how to intgrate in a complex environment that requires a mastery of the Vivado FPGA environement and strong developement skills in embeded software
+- 📫 How to reach me Jeremy.Blaire@gmail.com
